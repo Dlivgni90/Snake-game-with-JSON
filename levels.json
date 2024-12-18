@@ -1,0 +1,20 @@
+{
+    "levels": [
+      {
+        "level": 1,
+        "speed": 100,
+        "foodPoints": 1
+      },
+      {
+        "level": 2,
+        "speed": 85,
+        "foodPoints": 2
+      },
+      {
+        "level": 3,
+        "speed": 60,
+        "foodPoints": 3
+      }
+    ]
+  }
+  

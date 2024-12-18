@@ -1,0 +1,22 @@
+#gameContainer{
+    text-align: center;
+}
+
+#gameBoard{
+    border: 3px solid, 
+}
+
+#scoreText{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+#resetBtn{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    width: 100px;
+    height: 25px;
+    border: 2px solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
